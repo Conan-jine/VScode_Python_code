@@ -1,7 +1,3 @@
-a=input()
-print(a)
-b=a.split()
-for it in b:
-    print(it)
-
-input()
+a=int(input())
+b=int(input())
+print(a-b)
